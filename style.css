@@ -55,7 +55,7 @@ main{
     display: flex;
 }
 .hero img{
-    width: 110%;
+    width: 105%;
     position: relative;
 }
 .info{
